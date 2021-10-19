@@ -6,8 +6,17 @@
   "scripts": {
     "start" : "node index.js"
   },
-  "author": "",
+  "author": "ROURET Lucas",
   "license": "ISC",
+  "homepage": "https://github.com/Rouret/SokCube#readme",
+  "bugs": {
+    "url": "https://github.com/Rouret/SokCube/issues",
+    "email": "lucas.rouretperso@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rouret/SokCube.git"
+  },
   "dependencies": {
     "express": "^4.15.2",
       "remove-array-items": "^2.0.1",

@@ -6,9 +6,15 @@ Le but de ce projet et de découvrir le système des sockets. Le principe est si
 
 > Oé oé super ton projet web ^^
 
+![GIF0](docs/gif0.gif)
+
+
+
 Mais en plus de ça, si quelqu'un rejoint le site cela s'affiche automatiquement sur tous les écrans des joueurs.
 
 > EN DIRECT ???? Woaaaaa
+
+![GIF0](docs/gif1.gif)
 
 Et oui, c'est le principe des sockets, par besoin de spam sa touche F5 pour voir les mises à jour ! Le client garde une connexion ouverte vers les serveurs pour envoyer et recevoir les données !
 
@@ -20,6 +26,7 @@ Comme par exemple quand vous regardez un stream d'Amouranth, ou lorsque vous par
 #### Install
 
 * Installation : `npm i`
+* Lancer : `npm run start` (node index.js)
 * Tester : [http://localhost:8080/](http://localhost:8080/)
 
 
