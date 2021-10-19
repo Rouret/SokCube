@@ -1,0 +1,6 @@
+{
+    "port": 8080,
+    "name": "SokCube",
+    "public_folder": "public",
+    "views_folder": "views"
+}
